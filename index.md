@@ -5,4 +5,4 @@
 
 ## try in html
 
-<img src="[https://your-image-url.type](https://www.sheffield.ac.uk/themes/custom/uos/images/logos/uos-crest.svg)" width="100">
+<img src="https://www.sheffield.ac.uk/themes/custom/uos/images/logos/uos-crest.svg" width="100">
