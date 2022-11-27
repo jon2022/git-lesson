@@ -1,0 +1,8 @@
+
+Create first repository (done)
+Add a file to the repo (done)
+Check Out Git History (done)
+Make some more changes (done)
+Hands on exercise
+Pulling from a remote source
+Minor note
