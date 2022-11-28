@@ -9,14 +9,19 @@
 - Pull changes
 
 **this should be in bold**
+
 _Italic_
 # Heading one
 ## subheading
 ### sub subheading
 
-'this is inline code'
+'this is inline code' `code`
 
 1. numbered
 2. numbered 2
 
 [link to google](https://www.google.com)
+
+|**left column**|**right column**|
+|----------|---------|
+|left text|right text|
