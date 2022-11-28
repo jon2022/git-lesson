@@ -5,3 +5,5 @@
 - push to github
 - review changes
 - make changes online
+- Stage and commit online changes
+- Pull changes
