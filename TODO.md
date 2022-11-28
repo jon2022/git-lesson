@@ -7,3 +7,16 @@
 - make changes online
 - Stage and commit online changes
 - Pull changes
+
+**this should be in bold**
+_Italic_
+# Heading one
+## subheading
+### sub subheading
+
+'this is inline code'
+
+1. numbered
+2. numbered 2
+
+[link to google](https://www.google.com)
